@@ -1,16 +1,104 @@
-## Hi there 👋
+# portfolio_Alisha
+# 👩‍💻 Alisha Inamdar — Portfolio
 
-<!--
-**Alishainamdar17/Alishainamdar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Full Stack Developer | React.js · Spring Boot · Node.js · Flutter | Pune, India
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-blue?style=for-the-badge)](https://alishainamdar17.github.io/portfolio_Alisha/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alisha-inamdar)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:inamdaralisha17@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me
+
+I'm a **Full Stack Developer** with 1.5+ years of experience building web and mobile applications. Currently working at **One Deo Leela Facade Systems Pvt. Ltd.**, where I develop ERP modules, REST APIs, and enterprise applications for the facade industry.
+
+I'm passionate about building scalable, clean, and user-friendly applications using modern technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Java, JavaScript, Dart |
+| **Frontend** | React.js, HTML5, CSS3, SCSS |
+| **Backend** | Spring Boot, Node.js, Express.js |
+| **Mobile** | Flutter |
+| **Database** | MySQL, MongoDB |
+| **DevOps & Tools** | Git, GitHub, Postman, REST APIs |
+| **Cloud** | Microsoft Azure (AZ-900 Certified) ☁️ |
+
+---
+
+## 💼 Work Experience
+
+### 🏢 One Deo Leela Facade Systems Pvt. Ltd. — Full Stack Developer
+📅 Sep 2025 – Present | 📍 Pune, India
+
+- Developed a **Gate Management Mobile App** using Flutter & Dart for employee/visitor entry-exit tracking
+- Built a **Task Management System** using MERN Stack for project task management and team collaboration
+- Developed secure **JWT-based authentication & authorization** for web and mobile applications
+- Currently building **ERP modules** for the facade industry covering operational workflow and project tracking
+- Integrated **Role-Based Access Control (RBAC)** across ERP modules for department-level permissions
+- Designed and implemented **RESTful APIs** with MongoDB for efficient data management
+
+---
+
+### 🏢 Plaxonic Software Pvt. Ltd. — Frontend Developer (React.js)
+📅 Jan 2024 – Jun 2025 | 📍 Pune, India
+
+- Developed responsive web applications using **React.js, JavaScript, HTML5, and CSS3**
+- Built reusable React components to improve code maintainability and performance
+- Integrated frontend with **REST APIs** for dynamic data rendering across devices and browsers
+- Collaborated with backend developers using **Git** for version control
+
+---
+
+## 🚀 Projects
+
+### 📋 Task Management System
+**Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
+
+- Full-stack task management app to assign tasks, track progress, and improve team collaboration
+- Built reusable React.js components and RESTful APIs with Node.js and Express.js
+- Integrated MongoDB with CRUD operations, RBAC, and responsive UI
+- Implemented user authentication and role-based access control
+
+---
+
+### 💧 Smart Aqua Monitoring & Billing System
+**Tech Stack:** Java Full Stack · Flutter · REST APIs · MongoDB
+
+- Full-stack water monitoring and billing system to track real-time water usage and automate bill generation
+- Developed mobile interface using **Flutter & Dart** for live aqua usage monitoring and alerts
+- Designed RESTful APIs with Node.js and Express.js; stored data in MongoDB
+- Implemented automated billing logic, usage reports, and admin dashboard
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Score | Year |
+|---|---|---|---|
+| B.Tech in Information Technology | Dr. Babasaheb Ambedkar Technological University, Lonere | CGPA: 8.80 | 2020–2023 |
+| Diploma (MSBTE) | SVPM, Malegaon | 92% | 2019–2020 |
+
+---
+
+## 📜 Certifications
+
+- ☁️ **Microsoft Azure Fundamentals (AZ-900)** — Cloud concepts: compute, storage, networking, security
+- 🎓 **Advanced Certificate in Full Stack Development – Pro** — upGrad (HTML, CSS, JS, React, Node.js, SQL)
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: [inamdaralisha17@gmail.com](mailto:inamdaralisha17@gmail.com)
+- 📱 Phone: +91-8208577875
+- 📍 Location: Pune, India
+
+---
+
+⭐ *If you like my work, feel free to star this repo and connect with me!*
