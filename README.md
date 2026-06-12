@@ -34,7 +34,7 @@ I'm passionate about building scalable, clean, and user-friendly applications us
 ## 💼 Work Experience
 
 ### 🏢 One Deo Leela Facade Systems Pvt. Ltd. — Full Stack Developer
-📅 Sep 2025 – Present | 📍 Pune, India
+📅 Feb 2024 – Present | 📍 Pune, India
 
 - Developed a **Gate Management Mobile App** using Flutter & Dart for employee/visitor entry-exit tracking
 - Built a **Task Management System** using MERN Stack for project task management and team collaboration
@@ -46,7 +46,7 @@ I'm passionate about building scalable, clean, and user-friendly applications us
 ---
 
 ### 🏢 Plaxonic Software Pvt. Ltd. — Frontend Developer (React.js)
-📅 Jan 2024 – Jun 2025 | 📍 Pune, India
+📅 Jan 2023 – Jun 2024 | 📍 Pune, India
 
 - Developed responsive web applications using **React.js, JavaScript, HTML5, and CSS3**
 - Built reusable React components to improve code maintainability and performance
