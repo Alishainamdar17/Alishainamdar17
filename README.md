@@ -4,7 +4,7 @@
 > Full Stack Developer | React.js · Spring Boot · Node.js · Flutter | Pune, India
 
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-blue?style=for-the-badge)](https://alishainamdar17.github.io/portfolio_Alisha/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alisha-inamdar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alishainamdar17)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:inamdaralisha17@gmail.com)
 
 ---
@@ -12,7 +12,6 @@
 ## 👋 About Me
 
 I'm a **Full Stack Developer** with 1.5+ years of experience building web and mobile applications. Currently working at **One Deo Leela Facade Systems Pvt. Ltd.**, where I develop ERP modules, REST APIs, and enterprise applications for the facade industry.
-
 I'm passionate about building scalable, clean, and user-friendly applications using modern technologies.
 
 ---
