@@ -54,29 +54,6 @@ I'm passionate about building scalable, clean, and user-friendly applications us
 - Collaborated with backend developers using **Git** for version control
 
 ---
-
-## 🚀 Projects
-
-### 📋 Task Management System
-**Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
-
-- Full-stack task management app to assign tasks, track progress, and improve team collaboration
-- Built reusable React.js components and RESTful APIs with Node.js and Express.js
-- Integrated MongoDB with CRUD operations, RBAC, and responsive UI
-- Implemented user authentication and role-based access control
-
----
-
-### 💧 Smart Aqua Monitoring & Billing System
-**Tech Stack:** Java Full Stack · Flutter · REST APIs · MongoDB
-
-- Full-stack water monitoring and billing system to track real-time water usage and automate bill generation
-- Developed mobile interface using **Flutter & Dart** for live aqua usage monitoring and alerts
-- Designed RESTful APIs with Node.js and Express.js; stored data in MongoDB
-- Implemented automated billing logic, usage reports, and admin dashboard
-
----
-
 ## 🎓 Education
 
 | Degree | Institution | Score | Year |
