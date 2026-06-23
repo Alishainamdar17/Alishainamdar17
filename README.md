@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm a **Full Stack Developer** with 3+ years of experience building web applications, REST APIs, and AI-integrated systems. Currently working at **One Deo Leela Facade Systems Pvt. Ltd.**, where I develop ERP modules and enterprise applications.
+I'm a **Full Stack Developer** with 2.5+ years of experience building web applications, REST APIs, and AI-integrated systems. Currently working at **One Deo Leela Facade Systems Pvt. Ltd.**, where I develop ERP modules and enterprise applications.
 
 I build across the full stack — Python/FastAPI backends, React frontends, and LLM-powered agentic workflows. I've shipped an end-to-end AI code review agent with GitHub App integration, async LLM analysis pipelines, and webhook infrastructure — from scratch.
 
